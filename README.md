@@ -1,5 +1,5 @@
 # Nashville Housing Project
-In this project, I will perform **data cleaning** on a dataset using SQL (MySQL) by completing the following tasks::
+In this project, I will perform **data cleaning** on a dataset using SQL (MySQL) by completing the following tasks:
 1. Create a table to import the dataset
 2. Standardize the date format
 3. Handle missing values
