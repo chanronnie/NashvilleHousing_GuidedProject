@@ -18,5 +18,5 @@ Data Source: [Nashville Housing Dataset](https://github.com/AlexTheAnalyst/Portf
   - UPDATE, ALTER
 
 ## Copyright
-This is a project guided by [Alex The Analyst](https://www.youtube.com/watch?v=8rO7ztF4NtU) with some personalized modifications.
+This project is being guided by [Alex The Analyst](https://www.youtube.com/watch?v=8rO7ztF4NtU), who uses Microsoft SQL, and it requires necessary modifications to accommodate MySQL codes.
 
